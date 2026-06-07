@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Usługi Hydrauliczne &amp; Pogotowie 24/7</title>
+<style>
+body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; color: #333; background:
+#fbfbfb; }
+header { background: #1a365d; color: white; text-align: center; padding: 40px 20px; }
+header h1 { margin: 0; font-size: 2.5em; }
+header p { font-size: 1.2em; color: #90cdf4; }
+.cta-btn { display: inline-block; background: #e53e3e; color: white; padding: 15px 30px;
+font-size: 1.3em; font-weight: bold; text-decoration: none; border-radius: 5px; margin-top: 20px;
+box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+.container { max-width: 800px; margin: 30px auto; padding: 0 20px; }
+.services { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 4px
+rgba(0,0,0,0.05); }
+h2 { color: #1a365d; border-bottom: 2px solid #3182ce; padding-bottom: 10px; }
+ul { list-style-type: none; padding: 0; }
+li { padding: 10px 0; border-bottom: 1px solid #edf2f7; font-size: 1.1em; }
+li::before { content: "✓ "; color: #38a169; font-weight: bold; }
+.contact { background: #3182ce; color: white; text-align: center; padding: 30px 20px;
+border-radius: 8px; margin-top: 30px; }
+.contact h2 { color: white; border: none; }
+.phone { font-size: 2em; font-weight: bold; margin: 15px 0; }
+.phone a { color: white; text-decoration: none; }
+</style>
+</head>
+<body>
+<header>
+<h1>Usługi Hydrauliczne JB Grupa</h1>
+<p>Szybko, solidnie i na miejscu. Pogotowie hydrauliczne w Warszawa i okolice.</p>
+<a href="tel:+48000000000" class="cta-btn">Zadzwoń teraz: +48 739 241 228</a>
+</header>
+<div class="container">
+<div class="services">
+<h2>Nasze Usługi</h2>
+<p>Oferujemy pełen zakres prac hydraulicznych dla domów, mieszkań i firm:</p>
+<ul>
+<li>Pogotowie hydrauliczne i usuwanie nagłych awarii 24/7</li>
+<li>Montaż i modernizacja instalacji wodno-kanalizacyjnych</li>
+<li>Montaż ceramiki i armatury łazienkowej (biały montaż)</li>
+<li>Podłączanie pralek, zmywarek i urządzeń AGD</li>
+
+<li>Instalacje centralnego ogrzewania (C.O.) i ogrzewanie podłogowe</li>
+<li>Czyszczenie i udrażnianie rur</li>
+</ul>
+</div>
+<div class="contact">
+<h2>Potrzebujesz hydraulika?</h2>
+<p>Zadzwoń, zapytaj o darmową wycenę. Dojeżdżamy do klientów ekspresowo.</p>
+<div class="phone"><a href="tel:+48739241228">+48 739241228</a></div>
+<p>Działamy na terenie: Warszawa i pobliskie miejscowości</p>
+</div>
+</div>
+</body>
+</html>
